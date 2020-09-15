@@ -5,6 +5,10 @@
 - Video: [Using Vue 3 Beta with Ionic, Authentication Flow Using Composition API and Firebase](https://youtu.be/QxUVGTL4GzY)
 - Video Series: [Vue 3 Ionic Videos](https://www.youtube.com/playlist?list=PL2PY2-9rsgl2uKW0DB5FJ-YRCAG-JuSWN)
 
+RELATED VIDEOS
+- [PART ONE, Capacitor Camera & Geolocations](https://github.com/aaronksaunders/capacitor-vue3-ionicv5-app)
+- [PART TWO, Firebase Integration](https://github.com/aaronksaunders/ionic-vue3-sample-2) 
+- [PART THREE, Firebase Integration, Authentication](https://github.com/aaronksaunders/ionic-vue3-sample-3)
 
 Showing authentication flow using composition api and firebase using the new ionic framework web components for vue 3
 
